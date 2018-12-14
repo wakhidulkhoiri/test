@@ -8,6 +8,6 @@ $msgwe = "[!] info withdraw work with delay 10 sec";
 $msgveeu = "[!] enjoy your life";
 $data= [
 'unbk Ruang 2','Faqih Khoiril Anam','wakhidul khoiri','Ashter Konoha','Dwi Putri Handayani','Nawirul Fadly',
- 'Faqih Khoiril Anam','Wakhidul Khoiri','elvanza nabila','Silvia Diaz389','User_1527989487501','ZELL• MLBB','Saiful arif in channel'       ];
+ 'Faqih Khoiril Anam','Wakhidul Khoiri','elvanza nabila','Silvia Diaz389','User_1527989487501','ZELL• MLBB','Saiful arif in channel','Media Onlineku'       ];
 $ydnews = ['tes',];
 $toto = ['tes',];
