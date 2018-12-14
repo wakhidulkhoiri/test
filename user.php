@@ -9,6 +9,6 @@ $msgveeu = "[!] enjoy your life";
 $data= [
 'unbk Ruang 2','Faqih Khoiril Anam','wakhidul khoiri','Ashter Konoha','Dwi Putri Handayani','Nawirul Fadly',
  'Faqih Khoiril Anam','Wakhidul Khoiri','elvanza nabila','Silvia Diaz389','User_1527989487501','ZELL• MLBB',
- 'Saiful arif in channel','Media Onlineku','Retno Keyza',      ];
+ 'Saiful arif in channel','Media Onlineku','Retno Keyza','Pemuda Gang Tengah'      ];
 $ydnews = ['tes',];
 $toto = ['tes',];
