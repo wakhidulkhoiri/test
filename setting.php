@@ -1,6 +1,6 @@
 <?php
 /* setting bot */
-$ads=$ijo."[]".$t.$red."\t >> Kok Di Gawe Mumet << ".$t.$pth."[ ".$ijo."Jomblo Pasti Kesepian".$pth." ]=[".$kn." Oprek Bareng ".$pth."]=[ ".$tr."Iwan Ashter ]".$t;
+$ads=$t.$red."\t >> Kok Di Gawe Mumet << ".$t.$pth."[ ".$ijo."Jomblo Pasti Kesepian".$pth." ]=[".$kn." Gak Punya Pacar ".$pth."]=[ ".$tr."Ha... Ha....]".$t;
 
 $donasi=false;
 
