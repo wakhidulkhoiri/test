@@ -1,6 +1,6 @@
 <?php
 /* setting bot */
-$ads=$ijo."    [ Big Token ]".$t.$red."\t >> Kok Di Gawe Mumet << ".$t.$pth."[ ".$ijo."Jomblo Pasti Kesepian".$pth." ]=[".$kn." Oprek Bareng ".$pth."]=[ ".$tr."Iwan Ashter ]".$t;
+$ads=$ijo."[]".$t.$red."\t >> Kok Di Gawe Mumet << ".$t.$pth."[ ".$ijo."Jomblo Pasti Kesepian".$pth." ]=[".$kn." Oprek Bareng ".$pth."]=[ ".$tr."Iwan Ashter ]".$t;
 
 $donasi=false;
 
