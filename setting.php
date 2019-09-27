@@ -1,6 +1,6 @@
 <?php
 /* setting bot */
-$ads=$t.$red."\t >> Untuk Para Jomblo Gk Usah Nikah << ".$t.$pth."[ ".$ijo."Perkosa Istri".$pth." ]=[".$kn."Denda 10 M".$pth."]=[ ".$tr."Ha..Ha..]".$t;
+$ads=$t.$red."\t >> Untuk Para Jomblo Enggak Usah Nikah << ".$t.$pth."[ ".$ijo."Ada RUU KUHP Baru Perkosa Istri".$pth." ]=[".$kn."Denda 10 M".$pth."]=[ ".$tr."Colay Aja..!!!]".$t;
 
 $donasi=false;
 
