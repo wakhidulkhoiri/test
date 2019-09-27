@@ -1,6 +1,6 @@
 <?php
 /* setting bot */
-$ads=$t.$red."\t >> Kok Di Gawe Mumet << ".$t.$pth."[ ".$ijo."Jomblo Pasti Kesepian".$pth." ]=[".$kn." Gak Punya Pacar ".$pth."]=[ ".$tr."Ha... Ha....]".$t;
+$ads=$t.$red."\t >> 2019 << ".$t.$pth."[ ".$ijo."Perkosa Istri".$pth." ]=[".$kn."Denda 10 M".$pth."]=[ ".$tr."Ha..Ha..]".$t;
 
 $donasi=false;
 
@@ -11,7 +11,7 @@ $big=$br."
 ──── █▀▄ ▀ ▄▀▀─────".$tr." ▀█▀ ▄▀▄ █─▄▀ █▀▀ █▄─█────".$br."
 ──── █▀█ █ █─▀▌────".$tr." ─█─ █─█ █▀▄─ █▀▀ █─▀█────".$br."
 ──── ▀▀─ ▀ ▀▀▀─────".$tr." ─▀─ ─▀─ ▀─▀▀ ▀▀▀ ▀──▀────".$pth."
-=| Script : ".$ijo."Big Token ".$pth."|==| versi :".$tr." [ 2.0 ]".$pth." |=".$t;
+=| Script : ".$ijo."Big Token ".$pth."|==| Tahun :".$tr." [ 2019 ]".$pth." |=".$t;
 $msg_big="[•]=[ Penak Temen Uripmu ]";
 $stat_big=true;
 
