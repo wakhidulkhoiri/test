@@ -19,7 +19,7 @@ $big=$br."
  | _ \  | |     | (_ |".$tr."     | |    | (_) | | ' <   | _|  | .` | ".$br."
  |___/ |___|     \___|".$tr."     |_|     \___/  |_|\_\  |___| |_|\_| ".$pth."
 
-||=•••> Script : ".$ijo."Big Token ".$pth."||=•••> Tahun :".$tr."2019".$pth." <•••=||" .$t;
+||=•••> Script : ".$ijo."Big Token <•••=|| ".$pth."||=•••> Tahun :".$tr."2019".$pth." <•••=||" .$t;
 $msg_big="||=•••> = Please Jangan Maruk :) ";
 $stat_big=true;
 
