@@ -1,9 +1,9 @@
 <?php
 $ads=$t.$red."\t >> Untuk Para Jomblo Enggak Usah Nikah << ".$t.$pth."".$ijo."Ada RUU KUHP Baru Perkosa Istri".$pth."".$kn." Denda 10M".$pth."".$tr." Sabar Yaa Budjank....".$t;
-$warn=$red."||=•••> Perhatian.....!!!
-".$kn."||=•••> Ini Adalah Program Ilegal.....!!!!
+$warn=$red."||=•••> Perhatian.....!!! Maaf Sebelumnya Kawan - Kawan....!!!
+".$kn."||=•••> Ini Adalah Sebuah Program Ilegal.....!!!! 
+".$kn."||=•••> Resiko Di Tangggung Masing - Masing.....!!!!
 ".$kn."||=•••> No Baned No Asyik.....!!!!
-".$kn."||=•••> Oppit Bagi - Bagi.....!!!!".$t;
 
 $big=$br."
         (             ".$tr."                )        )            )  ".$br."
