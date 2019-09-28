@@ -2,7 +2,12 @@
 $ads=$t.$red."\t >> Untuk Para Jomblo Enggak Usah Nikah << ".$t.$pth."".$ijo."Ada RUU KUHP Baru Perkosa Istri".$pth."".$kn." Denda 10M".$pth."".$tr." Sabar Yaa Budjank....".$t;
 $warn=$red."||=•••> Perhatian.....!!! Maaf Sebelumnya Kawan - Kawan....!!!
 ".$kn."||=•••> Ini Adalah Sebuah Program Ilegal.....!!!! 
-".$kn."||=•••> No Baned No Asyik.....!!!!
+".$kn."||=•••> Resiko Di Tanggung Pengguna Masing - Masing.....!!!!
+".$kn."||=•••> No Baned No Asyik.....!!!!".$t;
+
+$key="oprek bareng";
+$link_yogo="https://oprek-bareng.blogspot.com";
+
 
 $big=$br."
         (             ".$tr."                )        )            )  ".$br."
