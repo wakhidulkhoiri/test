@@ -63,32 +63,6 @@ echo ".\n";
 sleep(1);
 @system("clear");
 
-function curl($url, $post=null){
-$fp=fopen('cookie.txt','w+');
-$cookie=realpath('cookie.txt');
-$ch = curl_init();
-$len="Content-Length: ".strlen($post);
-curl_setopt($ch, CURLOPT_URL, $url);
-curl_setopt($ch, CURLOPT_HTTPHEADER, "Content-Type: application/x-www-form-urlencoded",$len);
-curl_setopt($ch, CURLOPT_USERAGENT, "User-Agent: okhttp/3.10.0");
-curl_setopt($ch, CURLOPT_COOKIEJAR,"$cookie");
-curl_setopt($ch, CURLOPT_COOKIEFILE,"$cookie");
-//curl_setopt($ch, CURLOPT_HTTPPROXYTUNNEL, 1);
-//curl_setopt($ch, CURLOPT_PROXY, $ip);
-if($post != null){
-curl_setopt($ch, CURLOPT_POST, true);
-curl_setopt($ch, CURLOPT_POSTFIELDS, $post);
-}
-curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
-curl_setopt($ch, CURLOPT_TIMEOUT,5);
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-curl_setopt($ch, CURLOPT_SSL_VERIFYHOST,false);
-$exec = curl_exec($ch);
-curl_close($ch);
-return $exec;
-}
-/* setting bot */
 $ads=$t.$red."\t >> Untuk Para Jomblo Enggak Usah Nikah << ".$t.$pth."[ ".$ijo."Ada RUU KUHP Baru Perkosa Istri".$pth." ]=[".$kn."Denda 10 M".$pth."]=[ ".$tr."Colay Aja..!!!]".$t;
 
 $donasi=false;
